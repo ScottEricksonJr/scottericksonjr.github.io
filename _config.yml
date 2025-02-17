@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Scott Erickson"
-  avatar : "/assets/images/bio4.jpeg"
+  avatar : "/assets/images/Bio4.jpeg"
   bio    : "ConfigMgr + Intune + DevOps"
   links:
     - label: "Website"
