@@ -3,7 +3,7 @@ title: "Integrating Application Workspace into Software Center - Recast Software
 categories:
   - Blog
 tags:
-  - link
+  - Link
   - Recast Software
 link: https://www.recastsoftware.com/resources/integrating-application-workspace-into-software-center/
 ---
