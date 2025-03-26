@@ -60,15 +60,15 @@ author:
   avatar : "/assets/images/Bio5.jpg"
   bio    : "ConfigMgr + Intune + DevOps"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://scotte.dev"
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/scotte.dev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ScottEricksonJr"
+    - label: "Recast Software Blog"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.recastsoftware.com/author/scott-erickson/"
 
 footer:
   links:
