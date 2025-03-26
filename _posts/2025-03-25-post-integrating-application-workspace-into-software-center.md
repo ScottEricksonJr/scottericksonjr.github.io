@@ -1,5 +1,5 @@
 ---
-title: "Integrating Application Workspace into Software Center - Recast Software"
+title: "Integrating Application Workspace into Software Center"
 categories:
   - Blog
 tags:
